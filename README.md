@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Paradise Nursery Shopping Application
 
 Paradise Nursery is a responsive React e-commerce demo for browsing indoor houseplants and managing a shopping cart.
@@ -52,3 +53,6 @@ npm run preview
 ## Notes
 
 Product photos are loaded from Unsplash source URLs and therefore require an internet connection. This is a learning project; checkout is intentionally a placeholder and does not process payments.
+=======
+# paradise-nursery
+>>>>>>> cebf71a2cc101de3b2e2d2c32d30deee5cc26f24
